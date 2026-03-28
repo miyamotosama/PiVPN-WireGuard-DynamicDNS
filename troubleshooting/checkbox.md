@@ -11,3 +11,5 @@
 
 Do you see a pattern here? If you have successfully installed WireGuard, there is most likely a DNS problem.
 
+![Not my mme](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fremember-its-always-dns-v0-og9d3pdzy6ab1.jpeg%3Fwidth%3D599%26format%3Dpjpg%26auto%3Dwebp%26s%3D9819abb3b542a7b272c3c3096a35df5e1c19e7e0)
+
