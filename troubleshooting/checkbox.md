@@ -5,7 +5,7 @@
 * In the config file for your user: try changing your DNS provider  (8.8.8.8 | 1.1.1.1 )
 * Here, try also unticking the kill-switch.
   
-**On your public domain controller: **
+**On your public domain controller**
 * Are you using your Raspberry PI's public IP (your network's public IP)? This is the IP your DNS pointer should be pointing at.
 *Try changing your router's DNS provider (8.8.8.8 | 1.1.1.1)
 
