@@ -1,3 +1,5 @@
+## Do these checks if you cannot connect
+
 **In your router administrator environment**
 * Try changing DNS values from ISP to Static DNS and choose Google's and/or CloudFlare's (8.8.8.8 | 1.1.1.1 )
 
