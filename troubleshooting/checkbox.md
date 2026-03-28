@@ -11,4 +11,4 @@
 
 Do you see a pattern here? If you have successfully installed WireGuard, there is most likely a DNS problem.
 
-<img width="1404" height="841" alt="remember-its-always-dns" src="https://github.com/user-attachments/assets/9c176a87-a467-4ee2-8bd1-e65bb2251f32" />
+<img width="702" height="420" alt="remember-its-always-dns" src="https://github.com/user-attachments/assets/9c176a87-a467-4ee2-8bd1-e65bb2251f32" />
